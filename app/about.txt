@@ -1,0 +1,6 @@
+This logo was generated using the following font:
+
+- Font Title: Croissant One
+- Font Author: Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar edu@tipo.net.ar), with Reserved Font Name 'Croissant'
+- Font Source: https://fonts.gstatic.com/s/croissantone/v26/3y9n6bU9bTPg4m8NDy3Kq24UM3pqn5cdJ-4.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
