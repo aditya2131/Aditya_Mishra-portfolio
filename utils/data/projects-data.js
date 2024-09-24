@@ -1,7 +1,7 @@
 export const projectsData = [
     {
         id: 1,
-        name: 'ReactFlow_Node-based-Pipeline-UI',
+        name: 'Node-based-Pipeline-UI',
         description: "This project is a drag-and-drop pipeline UI built using React, ReactFlow, and Zustand for state management on the frontend, integrated with a FastAPI backend.",
         tools: ['React', 'ReactFlow', 'Zustand', 'FastAPI', 'Styled-components'],
         role: 'Backend Developer',

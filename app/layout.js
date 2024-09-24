@@ -10,7 +10,7 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Aditya Mishra - Full Stack Developer",
+  title: "Aditya Mishra - Full Stack Developer",
   description:
     "I’m Aditya Mishra, a Full Stack Developer with expertise in building modern web applications. Proficient in JavaScript across the full stack, I enjoy solving problems and collaborating in dynamic environments. Open to new opportunities where I can make a meaningful impact.",
 };
