@@ -5,7 +5,7 @@ export const projectsData = [
         description: "This project is a drag-and-drop pipeline UI built using React, ReactFlow, and Zustand for state management on the frontend, integrated with a FastAPI backend.",
         tools: ['React', 'ReactFlow', 'Zustand', 'FastAPI', 'Styled-components'],
         role: 'Backend Developer',
-        link: 'https://github.com/aditya2131/ReactFlow_Node-based-Pipeline-UI',
+        link: 'https://node-based-pipelineui-1.onrender.com/',
     },
     {
         id: 2,
